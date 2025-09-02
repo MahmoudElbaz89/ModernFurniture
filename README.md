@@ -1,12 +1,45 @@
-# React + Vite
+# Modern Furniture E-commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website for furniture built with React and Vite.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo: [https://your-deployment-url.com](https://modern-furniture-n.netlify.app/)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Modern and responsive design
+- Product catalog with categories
+- Shopping cart functionality
+- Product details and filtering
+- Smooth animations and transitions
+
+## Technologies Used
+
+- React
+- Vite
+- React Router
+- Context API for state management
+- Styled Components (or your preferred styling solution)
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Building for Production
+
+```bash
+npm run build
+```
+
+## License
+
+This project is licensed under the MIT License.
