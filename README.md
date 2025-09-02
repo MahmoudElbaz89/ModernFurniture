@@ -4,7 +4,7 @@ A modern e-commerce website for furniture built with React and Vite.
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://your-deployment-url.com](https://modern-furniture-n.netlify.app/)
+Check out the live demo: [Modern Furniture](https://modern-furniture-n.netlify.app/)
 
 ## Features
 
